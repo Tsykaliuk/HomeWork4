@@ -1,0 +1,14 @@
+C:\Users\makst\source\repos\GeoObjectsInterface\bin\Debug\net8.0\GeoObjectsInterface.exe
+C:\Users\makst\source\repos\GeoObjectsInterface\bin\Debug\net8.0\GeoObjectsInterface.deps.json
+C:\Users\makst\source\repos\GeoObjectsInterface\bin\Debug\net8.0\GeoObjectsInterface.runtimeconfig.json
+C:\Users\makst\source\repos\GeoObjectsInterface\bin\Debug\net8.0\GeoObjectsInterface.dll
+C:\Users\makst\source\repos\GeoObjectsInterface\bin\Debug\net8.0\GeoObjectsInterface.pdb
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\GeoObjectsInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\GeoObjectsInterface.AssemblyInfoInputs.cache
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\GeoObjectsInterface.AssemblyInfo.cs
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\GeoObjectsInterface.csproj.CoreCompileInputs.cache
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\GeoObjectsInterface.dll
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\refint\GeoObjectsInterface.dll
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\GeoObjectsInterface.pdb
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\GeoObjectsInterface.genruntimeconfig.cache
+C:\Users\makst\source\repos\GeoObjectsInterface\obj\Debug\net8.0\ref\GeoObjectsInterface.dll
